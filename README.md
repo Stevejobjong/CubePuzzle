@@ -1,1 +1,1 @@
-# CubePuzzle
+Cubicolor 모작
